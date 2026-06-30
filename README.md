@@ -38,7 +38,7 @@ If you want to access blocked platforms at school or work without compromising y
 
 #### Reclaim Your Network Freedom
 Download Kite VPN today and bypass network filters:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Supports iOS, Android, macOS, and Windows.
 
 ---
@@ -77,7 +77,7 @@ Download Kite VPN today and bypass network filters:
 
 #### 立即重获网络自由
 下载 Kite VPN，一键突破网络限制：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 支持 Windows, macOS, iOS 和 Android 全平台。
 
 ---
@@ -116,5 +116,5 @@ Download Kite VPN today and bypass network filters:
 
 #### Верните свободу в Сети
 Скачайте Kite VPN и обойдите ограничения:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Поддержка iOS, Android, macOS и Windows.
